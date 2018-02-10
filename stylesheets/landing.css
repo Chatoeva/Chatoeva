@@ -28,9 +28,9 @@
 }
 
 .landingWrapper .mainSection p {
-  margin-top: 25px;
-  font-size: 26px;
-  line-height: 36px;
+  margin-top: -23px;
+  font-size: 22px;
+  line-height: 26px;
 }
 
 .landingWrapper .mainSection {
@@ -41,8 +41,8 @@
 }
 
 .landingWrapper .mainSection.center h2 {
-  font-size: 46px;
-  line-height: 58px;
+  font-size: 26px;
+    line-height: 2px;
 }
 
 .landingWrapper .mainSection.center p {
@@ -73,8 +73,8 @@
 }
 
 .landingWrapper .mainSection.left .pattern {
-  margin-left: -60px;
-  margin-top: 277px;
+  margin-left: 155px;
+  margin-top: -50px;
 }
 
 .landingWrapper .mainSection.left2 .textWrapper {
@@ -156,8 +156,8 @@ display: inline-block;
 #mockup2 {
   width: 544px;
   height: 690px;
-  top: 18px;
-  left: 209px;
+  top: 8px;
+  left: 150px;
   background-image: url(../images/landing/mockup2.jpg);
 }
 
